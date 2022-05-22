@@ -8,7 +8,6 @@ package com.qq;
 
 public class git {
     public static void main(String[] args) {
-        System.out.println("\"hellogit\" = " + "hellogit");
         System.out.println("\"hellogit\" = " + "hellogit2");
     }
 }
