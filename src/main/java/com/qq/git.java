@@ -12,6 +12,6 @@ public class git {
         System.out.println("\"hellogit\" = " + "hotfix");
         System.out.println("\"hellogit\" = " + "master");
         System.out.println("\"hellogit\" = " + "hot-fix-3");
-        System.out.println("\"hellogit\" = " + "push test");
+        System.out.println("\"hellogit\" = " + "push test2");
     }
 }
